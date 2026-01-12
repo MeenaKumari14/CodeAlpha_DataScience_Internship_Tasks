@@ -49,3 +49,8 @@ Welcome to my professional repository showcasing the projects completed during m
 - **Internship Provider:** [CodeAlpha](https://www.codealpha.tech/
 
 *Thank you for visiting my repository! Feel free to explore the folders for detailed code and documentation.*
+
+## Author
+**Meena Kumari**  
+Data Science Intern  
+
