@@ -45,3 +45,10 @@ a much more intense economic challenge during the lockdown period.
 - **Pandas**: For data manipulation and structural analysis.
 - **Matplotlib & Seaborn**: For creating high-quality, insightful visualizations.
 - **NumPy**: For mathematical and numerical operations.
+
+##  Contact & Connect
+- **LinkedIn:** https://www.linkedin.com/in/kumarimeena
+- **Internship Provider:** https://www.codealpha.tech
+
+*Thank you for visiting my repository! Feel free to explore the folders for detailed code and documentation.*
+
