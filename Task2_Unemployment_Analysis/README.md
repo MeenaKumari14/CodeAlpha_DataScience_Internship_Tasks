@@ -4,7 +4,7 @@
 This project focuses on analyzing the unemployment rate in India, specifically during the period of the COVID-19 pandemic.
 By performing Exploratory Data Analysis (EDA), I have visualized the socio-economic impact of the 2020 lockdown on the labor market across various Indian states.
 
-## 📁 Dataset Description
+## Dataset Description
 The analysis utilizes a dataset containing information about the labor market in India up to August 2020. Key features include:
 - **Region:** The specific Indian states/territories.
 - **Date:** The timeline of the data collection.
@@ -12,7 +12,7 @@ The analysis utilizes a dataset containing information about the labor market in
 - **Estimated Employed:** The total number of people currently employed.
 - **Estimated Labour Participation Rate (%):** The percentage of the population that is either working or actively looking for work.
 
-## 🛠️ Project Workflow
+##  Project Workflow
 
 ### 1. Data Cleaning & Preprocessing
 - Handled missing values and ensured data consistency.
