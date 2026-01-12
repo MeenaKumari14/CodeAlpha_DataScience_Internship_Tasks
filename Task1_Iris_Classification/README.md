@@ -42,3 +42,10 @@ The model performed exceptionally well, achieving high scores across all metrics
 - **Pandas & NumPy**: For data handling and numerical operations.
 - **Seaborn & Matplotlib**: For advanced data visualization.
 - **Scikit-learn**: For model training, splitting data, and performance evaluation.
+
+  ##  Contact & Connect
+- **LinkedIn:** https://www.linkedin.com/in/kumarimeena
+- **Internship Provider:** [CodeAlpha](https://www.codealpha.tech/
+
+*Thank you for visiting my repository! Feel free to explore the folders for detailed code and documentation.*
+
