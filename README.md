@@ -45,7 +45,7 @@ Welcome to my professional repository showcasing the projects completed during m
 - **Tools:** Jupyter Notebook, Git/GitHub, Data Cleaning
 
 ##  Contact & Connect
-- **LinkedIn:** [(https://www.linkedin.com/in/kumarimeena/]
+- **LinkedIn:** [(https://www.linkedin.com/in/kumarimeena]
 - **Internship Provider:** [CodeAlpha](https://www.codealpha.tech/)
 
 *Thank you for visiting my repository! Feel free to explore the folders for detailed code and documentation.*
