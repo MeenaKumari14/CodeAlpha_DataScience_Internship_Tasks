@@ -34,7 +34,7 @@ Welcome to my professional repository showcasing the projects completed during m
 **Objective:** To build a predictive system that estimates the market value of used cars based on several input features.
 - **Details:** Features like fuel type, transmission, mileage, and age are used to predict the selling price using Regression techniques.
 - **Technologies:** Machine Learning, Regression Algorithms, Feature Engineering.
-- [ Explore Task 3 Folder](./Task3_Car_Price_Prediction)
+- [ Explore Task 3 Folder](./Task3_Sales_Prediction)
 
 ---
 
