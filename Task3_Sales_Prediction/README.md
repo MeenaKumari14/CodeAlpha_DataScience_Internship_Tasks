@@ -1,4 +1,4 @@
-#  Advertising Sales Prediction using Machine Learning
+#  Task 3: Advertising Sales Prediction using Machine Learning
 
 ##  Project Overview
 The objective of this project is to build a predictive model that estimates sales based on advertising expenditures across three
@@ -48,7 +48,6 @@ Based on the model coefficients, the following strategies are recommended:
 ---
 
 ##  Contact & Connect
-**Author:** Meena Kumari 
 - **LinkedIn:** https://www.linkedin.com/in/kumarimeena
 - **Internship Provider:** https://www.codealpha.tech
 
