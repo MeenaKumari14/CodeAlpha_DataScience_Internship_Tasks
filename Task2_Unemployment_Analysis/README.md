@@ -36,15 +36,16 @@ The analysis utilizes a dataset containing information about the labor market in
 ### 5. Distribution & Volatility (Box Plots)
 - Used Box Plots to analyze the distribution of unemployment rates and identify outliers across different regions.
 
-## Conclusion
-The analysis successfully demonstrates the severe impact of the pandemic on India's employment sector.
-The data highlights that while the entire country suffered, certain regions like Tripura faced 
-a much more intense economic challenge during the lockdown period.
-
 ## Libraries Used
 - **Pandas**: For data manipulation and structural analysis.
 - **Matplotlib & Seaborn**: For creating high-quality, insightful visualizations.
 - **NumPy**: For mathematical and numerical operations.
+
+- ## Conclusion
+The analysis successfully demonstrates the severe impact of the pandemic on India's employment sector.
+The data highlights that while the entire country suffered, certain regions like Tripura faced 
+a much more intense economic challenge during the lockdown period.
+
 
 ##  Contact & Connect
 - **LinkedIn:** https://www.linkedin.com/in/kumarimeena
